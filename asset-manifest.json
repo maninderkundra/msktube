@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/msktube/static/css/main.b58f2cca.css",
-    "main.js": "/msktube/static/js/main.5a4b4f2f.js",
+    "main.js": "/msktube/static/js/main.b18e85e9.js",
     "static/js/787.0c5ba2b0.chunk.js": "/msktube/static/js/787.0c5ba2b0.chunk.js",
     "index.html": "/msktube/index.html",
     "main.b58f2cca.css.map": "/msktube/static/css/main.b58f2cca.css.map",
-    "main.5a4b4f2f.js.map": "/msktube/static/js/main.5a4b4f2f.js.map",
+    "main.b18e85e9.js.map": "/msktube/static/js/main.b18e85e9.js.map",
     "787.0c5ba2b0.chunk.js.map": "/msktube/static/js/787.0c5ba2b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b58f2cca.css",
-    "static/js/main.5a4b4f2f.js"
+    "static/js/main.b18e85e9.js"
   ]
 }
